@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1392625886 source:/home/thai/Desktop/Thai/13.1/main.cpp
+	<iostream>
+	<VanPhong.h>
+	<SanXuat.h>
+
+1392626118 source:/home/thai/Desktop/Thai/13.1/src/SanXuat.cpp
+	"SanXuat.h"
+	<iostream>
+	<ostream>
+
+1392626687 /home/thai/Desktop/Thai/13.1/include/SanXuat.h
+	<string>
+	<iostream>
+
+1392625213 source:/home/thai/Desktop/Thai/13.1/src/VanPhong.cpp
+	"VanPhong.h"
+
+1392551862 /home/thai/Desktop/Thai/13.1/include/VanPhong.h
+	<string>
+	<SanXuat.h>
+
